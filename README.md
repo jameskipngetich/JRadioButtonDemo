@@ -23,12 +23,16 @@ ProjectFolder/
 ├── dog.png
 ├── rabbit.png
 └── pig.png
-
+```
 ## Requirements
 * JDK 8 or higher
 
 ## How to run
-``javac JRadioButtonDemo.java``
+```
+javac JRadioButtonDemo.java
+```
 
-``java JRadioButtonDemo``
+```
+java JRadioButtonDemo
+```
 
